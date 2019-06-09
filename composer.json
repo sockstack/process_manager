@@ -1,0 +1,9 @@
+{
+    "name": "sockstack/process_manager",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "sockstack\\": "src"
+        }
+    }
+}
